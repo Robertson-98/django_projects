@@ -2,6 +2,7 @@ django
 psycopg2-binary
 python-decouple
 djangorestframework
+djangorestframework-simplejwt
 
 
 
